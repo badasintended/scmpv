@@ -4,7 +4,6 @@
 #### Dependencies
 - `curl`
 - `mpv`
-- `youtube-dl`
 
 #### Installing/Uninstalling
 ```shell
