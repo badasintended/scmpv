@@ -2,7 +2,7 @@
 
 # github.com/deimfy/scmpv
 # license: MIT
-# dependencies: mpv, youtube-dl, curl
+# dependencies: mpv, curl
 
 if [ $ZSH_VERSION ]; then
     setopt sh_word_split
