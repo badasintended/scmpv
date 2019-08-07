@@ -9,14 +9,14 @@
 #### Installing/Uninstalling
 ```shell
 #!/bin/bash
-~ $ cd /path/to/working/dir/
-/path/to/working/dir/ $ sudo (un)install.sh
+cd /path/to/working/dir/
+sudo (un)install.sh
 ```
 
 #### Usage
 ```shell
 #!/bin/bash
-~ $ scmpv [argument] [query]
+scmpv [argument] [query]
 # List of arguments:
 #   track, tracks, sound, sounds, tr, so    Search for specified  track
 #   people, artist, artists, pe, ar         Search for specified artist
