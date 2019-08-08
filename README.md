@@ -9,7 +9,7 @@
 ```shell
 #!/bin/bash
 cd /path/to/working/dir/
-sudo (un)install.sh
+sudo sh (un)install.sh
 ```
 
 #### Usage
